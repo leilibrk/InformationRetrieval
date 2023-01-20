@@ -4,6 +4,8 @@
 
 > Semester: Fall 2022
 
+> Course content: [CS276 Standford University](https://web.stanford.edu/class/cs276/)
+
 This project is for Information Retrieval course which aims to implement a **<u>search engine</u>** for both phrase queries and Free text queries on [Fars News Dataset](). 
 
 ## First Phase
