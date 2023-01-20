@@ -14,7 +14,7 @@ This project is for Information Retrieval course which aims to implement a **<u>
 
 3. Created a positional inverted index
 
-4. Used Zip's law
+4. Used Zipf's law
    
    <img src="https://github.com/rojinakashefi/InformationRetrieval/blob/main/pictures/zip2.png" title="" alt="zip2.png" width="238">
 
@@ -28,4 +28,4 @@ This project is for Information Retrieval course which aims to implement a **<u>
    
    ---
    
-   > Contributors : Rojina kashefi & Leili Barekatein
+   Contributors : Rojina kashefi & Leili Barekatein
