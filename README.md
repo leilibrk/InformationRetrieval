@@ -7,7 +7,8 @@
 > Semester: Fall 2022
 
 
-This project is for Information Retrieval course which aims to implement a **<u>search engine</u>** for both phrase queries and Free text queries on [Fars News Dataset](). 
+
+This project is for Information Retrieval course which aims to implement a **<u>search engine</u>** for both phrase queries and Free text queries on [Fars News Dataset](https://drive.google.com/file/d/1x-ypTPZ0R_T83YfCw-p55MaQtpCvkrsb/view?usp=sharing). 
 
 ## First Phase
 
