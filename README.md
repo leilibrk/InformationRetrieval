@@ -18,7 +18,11 @@ This project is for Information Retrieval course which aims to implement a **<u>
 
 4. Used Zipf's law
 
+<img src="https://github.com/rojinakashefi/InformationRetrieval/blob/main/pictures/zip2.png" title="" alt="zip2.png" width="238">
+
 5. Used Heaps law
+
+<img src="https://github.com/rojinakashefi/InformationRetrieval/blob/main/pictures/heaps.png" title="" alt="zip2.png" width="238">
 
 6. Searching by Normal quries, Phrase Queries (used permuterm index), Boolean queries
 
