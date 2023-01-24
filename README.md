@@ -40,7 +40,7 @@ This project is for Information Retrieval course which aims to implement a **<u>
 
 5. Rank results based on most relevents
 
-<img src="https://github.com/rojinakashefi/InformationRetrieval/blob/main/pictures/zip2.png" title="" alt="phase2.png" width="238">
+<img src="https://github.com/rojinakashefi/InformationRetrieval/blob/main/pictures/phase2.png" title="" alt="phase2.png" width="238">
 
 ---
 
